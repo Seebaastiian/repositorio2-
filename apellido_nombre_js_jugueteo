@@ -1,0 +1,10 @@
+var alturaNIÑO = 56;
+
+function muestraSIELNIñopuedesubirALAmontañaRusa(alturaNIÑO)
+{
+    if(alturaNIÑO => 56){
+//console.log(''¡súbete, chico!'')
+    }else{
+//console.log(''lo siento, chico. tal vez el proximo año'')    
+    }
+}
